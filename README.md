@@ -1,5 +1,3 @@
-# DevOps-technical-assesment
-
 # DevOps Engineer - Technical Assessment
 
 ## Section 1: Technical Questions
